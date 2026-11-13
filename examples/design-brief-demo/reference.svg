@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700">
+<rect width="1200" height="700" fill="#edf1f4"/><rect width="1200" height="64" fill="#16456b"/>
+<g font-family="Arial, sans-serif"><text x="32" y="40" font-size="23" fill="white">Auenwerk · Einkauf</text><text x="900" y="38" font-size="15" fill="white">Synthetische Referenz</text>
+<text x="36" y="117" font-size="27" fill="#183345">Bestellanforderungen</text>
+<rect x="36" y="146" width="1128" height="52" fill="white" stroke="#b8c8d3"/><text x="52" y="179" font-size="17" fill="#324e61">Ansicht: Offene Anforderungen</text>
+<rect x="36" y="225" width="1128" height="300" fill="white" stroke="#b8c8d3"/><rect x="36" y="225" width="1128" height="50" fill="#dbe5ec"/>
+<g fill="#24445b" font-size="17"><text x="58" y="256">Nummer</text><text x="250" y="256">Lieferant</text><text x="650" y="256">Betrag CHF</text><text x="860" y="256">Termin</text><text x="1020" y="256">Status</text></g>
+<rect x="37" y="276" width="1126" height="66" fill="#e8f2fa"/>
+<g fill="#233746" font-size="17"><text x="58" y="316">BAN-1001</text><text x="250" y="316">Musterhandel Nord</text><text x="650" y="316">1’240.00</text><text x="860" y="316">20.11.2026</text><text x="1020" y="316">Offen</text>
+<text x="58" y="384">BAN-1002</text><text x="250" y="384">Beispieltechnik AG</text><text x="650" y="384">680.00</text><text x="860" y="384">23.11.2026</text><text x="1020" y="384">In Prüfung</text>
+<text x="58" y="452">BAN-1003</text><text x="250" y="452">Fiktivbedarf Süd</text><text x="650" y="452">2’090.00</text><text x="860" y="452">27.11.2026</text><text x="1020" y="452">Offen</text></g>
+<path d="M36 342H1164M36 410H1164M36 478H1164" stroke="#d7e0e7"/>
+<rect x="36" y="556" width="160" height="44" rx="3" fill="#1b6194"/><text x="68" y="584" font-size="17" fill="white">Freigeben</text>
+<text x="218" y="584" font-size="16" fill="#3a566a">1 Anforderung ausgewählt</text>
+<text x="36" y="660" font-size="14" fill="#546c7d">Nur fiktive Daten · Keine echte Unternehmens- oder SAP-Oberfläche</text></g></svg>
