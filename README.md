@@ -6,6 +6,7 @@ Studierendengruppen erstellen genau ein E2E-Projekt und ein Projekt pro gebautem
 Die bezeichnete Common-Version wird in die Kits kopiert. Während einer Durchführung bleibt sie möglichst unverändert. Korrekturen werden angekündigt und gezielt übernommen; kein automatisches Update beim Start.
 
 - [PIV-Workflow](shared/docs/PIV-WORKFLOW.md)
+- [Modellwahl und Denkstufen](shared/docs/MODEL-POLICY.md)
 - [Glossar](shared/docs/GLOSSARY.md)
 - [Fünf Darstellungen](shared/docs/DIAGRAMS.md)
 - [GitHub und Zusammenarbeit](shared/docs/COLLABORATION.md)
