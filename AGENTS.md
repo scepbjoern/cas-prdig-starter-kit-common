@@ -4,3 +4,5 @@ Vor Änderungen Status und README lesen. shared/ ist die führende Quelle der ve
 Die bestätigte Methodik in shared/docs/PIV-WORKFLOW.md und die Modellrichtlinie in shared/docs/MODEL-POLICY.md sind massgeblich. Keine zusätzlichen studentischen Pflichten, Pflicht-PRs oder unabhängigen Feature-Validatoren einführen.
 Common während eines Kurses möglichst einfrieren. Änderungen versionieren, prüfen und bewusst verteilen. tools/distribute.mjs muss bei abweichenden lokalen Dateihashes abbrechen.
 Beispiele ausschliesslich synthetisch. Keine vertraulichen Unternehmensunterlagen, echten Screenshots oder Personendaten öffentlich einchecken.
+
+Bei Änderungen an den verteilten Regeln shared/docs/COLLABORATION.md berücksichtigen: Kommunikation, nummerierte Dokumentvorlagen und Commit/Push werden dort gemeinsam gepflegt. Die kurzen Leseverweise in den E2E-/System-AGENTS.md bei Bedarf explizit nachführen.
